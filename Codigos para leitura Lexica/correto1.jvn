@@ -1,0 +1,17 @@
+program class num Teste;{
+var_1 = 10.4312;
+var_2 = 20;
+var_3 = 50;
+var_resposta1 = 0;
+var_resposta2 = 0;
+	
+   	if(var_1 + var_2 == var_3){
+	 	var_resposta1 = var_3;
+	}else{
+		var_resposta2 = var_3;
+	}
+	
+   	//Este e um comentario de uma linha
+    /*Este e um comentario com mais de uma linha*/
+
+	;}

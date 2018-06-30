@@ -1,0 +1,19 @@
+program class c var;{
+
+var_1 = 10.43;
+var_2 = 20;
+var_3 = 'a;
+var_resposta1 = 0;
+var_resposta2 = 0;
+	
+	if(var_1 + var_2 == var_3){
+	 	var_resposta1 = var_3;
+	}else{
+		var_resposta2 = var_3;
+	};
+	
+	//Este é um comentário de uma linha
+	/*Este é um comentário 
+	com mais de uma linha*
+
+}

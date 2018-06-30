@@ -1,0 +1,16 @@
+program class num teste;{
+
+var_1 = 1;
+var_2 = 20;
+var_literal = 's';
+var_char = 'a';
+
+ while(var_1 <= var_2){
+     var_1 = var_1 + 1;	
+ } 
+	
+	//Este e um comentario de uma linha
+	/*Este e um comentario com 
+	mais de duas linhas*/
+
+;}

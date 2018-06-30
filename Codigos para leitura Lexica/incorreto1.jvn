@@ -1,0 +1,16 @@
+program class { 
+
+var_1 = 1;		
+var_2 = 20.34;
+var_literal = "asfji;
+var_char = 'a';
+
+	while(var_1 <= var_2){
+		var_1 = var_1 + 1;	
+	} 
+	
+	//Este é um comentário de uma linha
+	/*Este é um comentário com 
+	mais de duas linhas/
+
+}

@@ -1,0 +1,18 @@
+program class num incorreto3 ;{
+	
+var_1 = 12.;
+var_2 = 20;
+var_3 = 42.1;
+var_4 = 2; //Este é um exemplo de literal
+var_char = 'sd';	 //Este é um exemplo de CHAR_CONST
+	
+	read var_literal;
+	read var_char;
+	read var_1;
+
+	write var_1 and var_2 or not var_3;
+
+	/*Este comentário tem 
+	mais de uma linha*/
+
+}
